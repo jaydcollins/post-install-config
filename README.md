@@ -90,4 +90,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br />
 
-<h2 align="center"> Let's Go! OsTicket is now configured and ready for tickets. </h2>
+<h2 align="center"> Let's Go! OsTicket is now configured and ready for tickets. <a href="https://github.com/jaydcollins/ticket-lifecycle">Let's check out the ticket lifecycle. </a> </h2>
