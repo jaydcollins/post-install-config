@@ -90,4 +90,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br />
 
-<h2 align="center"> Nice work! OsTicket is configured and ready for tickets. </h2>
+<h2 align="center"> Let's Go! OsTicket is now configured and ready for tickets. </h2>
