@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/kphillip1/post-install-config/assets/165929885/1170612b-aef9-4ab3-bfd6-b60be0fa30d5" height="80%" width="80%"/>
+<img width="703" alt="image" src="https://github.com/jaydcollins/post-install-config/assets/164976272/2e073c99-c976-4b52-ac87-f74c98e3149b">
 </p>
 
 - To configure roles, go to: Admin Panel > Agents > Roles. Add role. Name it and enable all ticket permissions.
@@ -35,10 +35,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://github.com/kphillip1/post-install-config/assets/165929885/3d6cd94d-0209-41c7-9cec-927c7e15d775" height="80%" width="80%" />
+<img width="703" alt="image" src="https://github.com/jaydcollins/post-install-config/assets/164976272/78989986-2ce9-4342-ae8c-58de626448df">
 </p>
 
-- Go to Admin Panel > Agents > Departments, Name the department and select a manager.
+- Go to Admin Panel > Agents > Departments -> Add New Departent. Name the department and select a manager.
 - Click "Creat Dept".
 - Next, go to Admin Panel -> Agents -> Teams.
 - Select "Add team".
