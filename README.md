@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="703" alt="image" src="https://github.com/jaydcollins/post-install-config/assets/164976272/2e073c99-c976-4b52-ac87-f74c98e3149b">
+<img width="607" alt="image" src="https://github.com/jaydcollins/post-install-config/assets/164976272/d2b32801-5292-49a9-a320-285d67be1173">
 </p>
 
 - To configure roles, go to: Admin Panel > Agents > Roles. Add role. Name it and enable all ticket permissions.
@@ -48,9 +48,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://github.com/kphillip1/post-install-config/assets/165929885/18fe1aa7-589e-43c6-90af-b3abaaf75cd3" height="80%" width="80%" />
+<img width="617" alt="image" src="https://github.com/jaydcollins/post-install-config/assets/164976272/3c923c92-bc6f-402c-990f-78daca0ccb7e">
 </p>
 
+-Time to create some agents and managers!
 - Go to Admin Panel -> Agents and click "Add new agent".
 - Create name and email.
 - Press the set password button.
@@ -66,9 +67,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Click "Add User".
 
 <br />
-
 <p>
-<img src="https://github.com/kphillip1/post-install-config/assets/165929885/f6d60345-0fc6-47d2-9f30-63966f0547fd" height="80%" width="80%" >
+<img width="598" alt="image" src="https://github.com/jaydcollins/post-install-config/assets/164976272/61607b38-b52f-4d7d-924f-fd6b96e6d472">
 </p>
 
 - Go to Admin Panel > Manage > SLA and click "add new SLA plan". 
@@ -79,7 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://github.com/kphillip1/post-install-config/assets/165929885/a593e70b-e376-4672-8e07-d5823e723d89" height="80%" width="80%"/>
+<img width="604" alt="image" src="https://github.com/jaydcollins/post-install-config/assets/164976272/ecd77a4f-54d9-4f38-a7b9-9eac235bc046">
 </p>
 
 - Go to Admin Panel > Manage > Help Topics and click "Add help topic".
